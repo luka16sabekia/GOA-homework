@@ -44,3 +44,9 @@ forward(200)
 end_fill()
 
 
+exitonclick()
+
+
+
+
+
