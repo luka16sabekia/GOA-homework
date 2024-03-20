@@ -7,3 +7,10 @@ print(name +str(age))
 weight=(54)
 origin="Tbilisi"
 hobby="football"
+print(type(name))
+print(type(surname))
+print(type(age))
+print(type(height))
+print(type(weight))
+print(type(origin))
+print(type(hobby))
